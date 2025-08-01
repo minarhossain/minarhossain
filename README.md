@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/mdminarh)
 
-- 🌱 I’m currently learning **HTML5 CSS3 BootStrap JavaScript PHP React Node.js Express.js MongoDB**
+- 🌱 I’m currently learning **HTML5, CSS3, BootStrap, JavaScript, PHP, React, Node.js, Express.js, MongoDB**
 
 - 👯 I’m looking to collaborate on [Freelancer](https://www.freelancer.com/u/mdminarh)
 
